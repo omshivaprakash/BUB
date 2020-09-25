@@ -59,7 +59,7 @@ sqlalchemy-migrate==0.7.2
 Tempita==0.5.2
 tld==0.6.4
 validate-email==1.2
-Werkzeug==0.9.6
+Werkzeug==0.15.3
 Whoosh==2.6.0
 WTForms==2.0.1
 zope.interface==4.1.1
