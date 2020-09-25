@@ -13,7 +13,7 @@ decorator==3.4.0
 docopt==0.6.1
 drench==0.0.13
 enum34==1.1.2
-Flask==0.10.1
+Flask==1.0
 Flask-Babel==0.9
 Flask-Login==0.2.11
 Flask-Mail==0.7.6
